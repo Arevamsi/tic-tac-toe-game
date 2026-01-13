@@ -46,12 +46,19 @@ The game ends when a winner is found or all slots are filled.
 
 🧩 Sample Board Layout
 |---|---|---|
+
 | 1 | 2 | 3 |
+
 |-----------|
+
 | 4 | 5 | 6 |
+
 |-----------|
+
 | 7 | 8 | 9 |
+
 |---|---|---|
+
 
 🏆 Winning Conditions
 
