@@ -43,3 +43,22 @@ If X or O has won
 If the game is a draw
 
 The game ends when a winner is found or all slots are filled.
+
+🧩 Sample Board Layout
+|---|---|---|
+| 1 | 2 | 3 |
+|-----------|
+| 4 | 5 | 6 |
+|-----------|
+| 7 | 8 | 9 |
+|---|---|---|
+
+🏆 Winning Conditions
+
+A player wins if they place three identical symbols (X or O) in:
+
+Any row
+
+Any column
+
+Any diagonal
